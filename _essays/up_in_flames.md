@@ -1,0 +1,66 @@
+---
+title: "Up in Flames"
+excerpt: ""
+categories: 
+- post
+tags: 
+---
+From the earliest days it was assumed that I would be the heir to my
+father's business.  I had worked with my father all my high school
+vacations and holidays.  When I was in college my father would say
+when you graduate I'll show you the business.  Courses like organic
+chemistry, physiological chemistry made no sense to me being that I
+knew Ii was going into the restaurant business.  After college I
+worked at our business until I was drafted.  Two years in the
+military and a desk sergeant in the Military Police corp.  Then back
+to the business I was expected to take over.
+
+By this time I was in my mid twenty's, and I remember there was a
+stretch when my father went to Europe, and went hunting in Alaska,
+Fishing in Florida Keys.  He was well into his sixties by this
+time. There was a stretch that I worked six months without a day off
+running the business. Then it happened!
+
+Over night the flame on the chief's stock pot was left on high.  It
+boiled over and flames hit the hood, the grease in the hood ignited
+and fire broke out in the kitchen and roof.  The flames were put out,
+all the food had to be thrown out and the restaurant was closed
+down. Then the drama began.  The insurance company held up
+reconstruction for over two years and many days at the lawyer's
+office.  For the first time I had no job and my father asked me to
+stay close because he needed me.
+
+At first I went to work at another restaurant as a part time job, but
+I had a lot of time on my hand.  I went on to get my airplane pilots
+license, well on to getting my commercial license.  All the time
+knowing that this was a hobby, but I have to admit I did thing about
+making it a career.
+
+At that time many pilots were returning from Vietnam, so decided not
+to pursue flying.
+
+Having been in the military and eligible for educational benefits I
+decided to take advantage of a hobby I had as a teenager, Photography!
+
+I went back to New York City and took every course the Photography
+school offered.  The Insurance claim still had not been settled.  I
+took a variety of jobs in Photography, Portrait, Fashion and Color
+Process (dye-transfer).  Then the settlement came.
+
+We reopened the restaurant, but much construction in the area and much
+competition made the restaurant much less competitive and less
+profitable.  Then there was an offer to buy the restaurant for much
+more than we would ever had expected.  We discussed it and Dad retired
+after the sale.
+
+That's when my life and career changed.  For a while I was in the
+insurance and investment business.  Shortly after, I met my future
+wife and we were married.  Commercial Property ownership, restaurant
+ownership, management and personal investing became my life work.
+
+Much of what I learned about life came from a fire that no one could
+have predicted.
+
+
+<!----- Footnotes ----->
+

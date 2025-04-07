@@ -1,0 +1,118 @@
+---
+title: "Words of My Father"
+excerpt: ""
+categories: 
+- post
+tags: 
+---
+
+
+# October, 1919 &#x2013; Port of Piraeus, Athens, Greece
+
+Having coffee, a Gypsy read my fortune in my overturned coffee cup.
+Her prediction was "that I would go on a voyage and go to a foreign
+land and become very prosperous."  I went back to my room and fell
+asleep.  Boo! Boo! Boo!  I was awakened!  The steam whistle sounded
+from a ship that was leaving, I grabbed my belongings and ran down to
+the Union Hall where the crew roster was being filled.  They called
+out for a Cook and I had just returned from the Black Sea and had my
+Union Card stamped as a cook.  The head of the Galley said I'm going
+to stamp it because the next guy I get may be worse than you.  I was
+taken on and the trip was to the United States, New York City.  I
+arrived at the docks in Brooklyn just shy of my 18th birthday.  Upon
+arrival I weighed 118 pounds and was 5 feet 8 inches in height. I
+carried a passenger's luggage off the boat and made my first .25cents
+American.  Than as they would say I "Jumped Ship."
+
+Not able to speak a word of English I did find some countrymen and
+they directed me to a place where I might find work.  However, because
+I had no money I slept in what they called a flop house on Cherry
+Street.  Here, I contacted lice and bed bugs, and had to shave my
+head.  I worked as a dishwasher and learned American style food.  I
+went to night school to learn English and within six months became the
+editor of the night school newspaper.  I also weighed 160 pounds six
+months after arrival.  My teach knew I had been educated because I
+could speak French and had mathematics to trigonometry.  She brought
+me over to city hall to register have a physical and pay my two dollar
+head tax to be in the country legally.  Two years later I owned the
+cafeteria on Flatbush Avenue in Brooklyn.  All thru the roaring
+Twenty's prosperity was everywhere.  When I arrived 42nd Street was
+filled with horse and wagons, by the late twenty's more and more
+automobiles were on the streets.  Subways and elevated trains, trolley
+cars were the common mode of transportation.  In addition to the
+Handsome horse drawn cab mainly for the very wealthy.  This is a
+little vignette of the beginnings of an immigrant in America.
+
+
+# Iohannis
+
+Hello and Yassou (greetings)!  Last time I told you how I came to
+America.  Now, let me introduce myself and tell you the story of my
+childhood.  My name is Iohannis (John) Psaris, born on November
+6, 1902.  I am the oldest son of Maria and Antonis (Anthony) Psaris.
+I have three other siblings, my older sister Athena, younger brother
+George, and my baby sister Sophia.  We grew up in a stucco house and
+the floor was hardened dirt.  Our beds had mattresses made of cloth
+stuffed with straw and for the most part we went barefooted.  This
+however did not make us poor.  We grew up on the side of the hill
+overlooking the town of Marmari and the bay of Marmari which separates
+the Island of Evoia from Athens which we could see in the distance.
+From our patio we could see the island of Petelus which was the Kings
+retreat island.  Marmari was a fishing village and we could see the
+boats on the water.
+
+My father had traveled to Egypt where many Greeks found prosperity,
+and while there he learned to graft trees.  He came home to Greece to
+visit his brother George and marriage to Maria Banos was arranged.
+Prika or dowry was expected from the bride's parents and a house or
+property was customary.  Being a good provider my father made old
+olive trees blossom and was known for his ability to have great
+quantities of olive oil to sell.  Donkey was the mode of
+transportation and for hauling of goods.  Wheat, sheep, goats, grapes
+for eating, wine and vinegar and of course chickens were all part of
+our work growing up.  Returning from the field one day I was really
+tired and my mother said "get the cat if he brushes against John's leg
+he will fall over."  This was something I would never forget.
+
+Entering school seemed much better than going to work in the
+mountains, and I excelled in class.  School for most was only to 12
+years of age, but much was compressed in those years.  I was chosen to
+go on to Gymnasium or High School in the capital city of Karistos
+about 20 km from Marmari.  I would walk over the mountain leaving
+Sunday night, sometimes having to fight off youngsters from the
+villages I passed thru.  My shoes I would carry till I would get to
+school and then put them on.  I enjoyed school and was an avid reader.
+My worse subject was Ancient Greek.  We studied all the ancient Greek
+poets, play writes, mathematics, geography, French, Latin, history and
+philosophy.  Today it would be called a classical education.
+
+Everyone wanted me to pursue my education and become the town priest.
+I paid careful attention to how ta priest lived and decided that was
+not for me.  The priest in the town was a highly respected figure but
+had to rely on the churchgoers for sustenance.  This was not for me.
+On of my teachers in high school asked us to do a paper on "Why people
+go to church."  Observations were that the men did business and the
+woman went to show off the best clothing, and had nothing to do with
+belief.  That teacher was gone the next year.
+
+Upon completion of high school it was time to leave home and make my
+way in life.  Before I went to Athens my father said to me "Son, there
+is nothing here for you, go to a country that has plenty of food."
+Under the lapel of my jacket my mother pinned a triangular black cloth
+with something in it, as a good luck charm to ward off evil and my
+little sister Sophia wrote me a poem of goodbye.
+
+Upon arriving in Athens I looked up a relative that was a union boss
+in Piraeus harbor.  I brought two chickens as a gift and told him they
+were from my father.  I told him I was looking for work.  He provided
+me with two jobs, I was to clock in at the first one, than go to the
+second.  I would get two paychecks.  The first I would split with him.
+This lasted a couple of months until I landed a job as a cook's helper
+aboard a ship.  This was my life prior to being a seaman.
+
+As the oldest son it was my obligation to help the whole family and
+send money home.  This I did til my dying day.
+
+
+<!----- Footnotes ----->
+

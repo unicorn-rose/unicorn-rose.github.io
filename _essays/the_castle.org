@@ -1,0 +1,89 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:nil broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t
+#+options: num:3 p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:nil todo:t |:t
+#+title: The Castle
+#+subtitle: 792 East 37th Street (The Psaris Empire)
+#+author: Tony Psaris
+#+email: tony.psaris@gmail.com
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.2 (Org mode 9.5.5)
+#+cite_export:
+#+date: <2023-03-21 Tue 18:30>
+
+Although my father hated monarchies, there was one that existed in
+Brooklyn.  Here is the list of titles.  The King was my father JOHN,
+The Queen was my mother ROSE, The Princess was my Sister Mary Rose,
+and I Anthony Ferdinand was the Prince.  There was a very definite
+division of responsibilities that everyone understood.  Never spoken
+but understood.
+
+King John was the provider.  He worked long and hard to provide for
+the whole Psaris family in the US and in Greece. As the eldest son, it
+was expected.
+
+Queen Rose was the keeper of the Castle and had the unquestioned power
+of that domain.  King John was devoted to Queen Rose, and whatever she
+wanted, he would oblige.
+
+Princess Mary Rose was expected to prepare herself to be Queen of her
+domain.  This meant she was expected to marry, have children, and not
+to leave home until this took place.  She played the piano and was an
+excellent student.
+
+Prince Anthony was expected to carry on the family business and
+provide Heirs to the dominion.  Being seven years younger than the
+princess, I was an obstacle to the power she had on the King.
+
+Let's see how all of these expectations turned out.
+
+Born in the town of Marmari, on the island of Evioa in Greece in 1902
+was given the name of Yhonnis Antonis Psaris.  He came from an
+agrarian family; he ahd an older sister Athena, a brother George, and
+a younger sister Sophia.  I believe my father was the only one in the
+family to go to Gymnasium (high school).  He was an excellent student
+and was being groomed to be the town's Priest.  In the town the priest
+was an authority and was an honored leader.  This however was not what
+my father wanted.  He took a look at the lifestyle of a priest and
+decided against it.  John was never a religious man but was Greek
+Orthodox because he was Greek.  In those days an educated person did
+not speak the common Greek, but spoke a high Greek or Katharevisah.
+This was a sign of education and social status. Non of this did I
+understand until I was almost forty years old.  He was an aristocrat
+in his day although he came from humble beginnings.  His father
+encouraged him to go abroad and said "There is nothing here for you."
+His father had been in Egypt and learned to graft trees before he came
+home and married in the 1890's.  With this knowledge he became
+prosperous.  Greeks being sailors and ocean travelers John got his
+union card and signed on as a cook's helper, and would relate the
+poverty he had seen in Russia on a voyage to the Black Sea.  This was
+1917 and WWI was raging.  Upon returning to Athens he was able to h
+ire on as a cook with a ship going to the US.  He landed in Brooklyn
+not speaking English and had 25 cents earned by carrying some valises
+off the ship.  He jumped ship and became an illegal immigrant.  Within
+six months he was the editor of his night school newspaper.  His night
+school teacher brought him to pay a two dollar head tax, and take a
+physical exam to become legal in the country.  This what John brought
+to the USA.
+
+Rosa Lang was born in Detingen, Germany in 1905.  By the time she was
+ten WWI was raging.  Food was scarce and times were hard.  My
+grandmother was institutionalized after the ware.  My grandfather was
+a soldier that was guarding Russian prisoners in the mountains near
+Oberschwappach.  Not being able to make a living after the war he
+moved the family to Oberschwappach where he remarried to a woman who
+had a farm.  He was able to feed his children on the farm.  Rosa hated
+the farm after all she was a city girl.  Rosa called her stop mother
+the "ELTER HEX".  In German this means "OLD WITCH".  Rosa's Aunt had
+come to the US and sent her the money to come also.  She came to the
+US as a fare paying passenger with proper papers to immigrate.  She
+arrived at port Elizabeth, NJ in 1924.
+
+John and Rosa married in 1932, Mary rose was born in 1935.  She was
+doted on by my father and mother and my mother's aunts "Tanta" Rosa
+and Eva.  She learned to speak German early.  Anthony arrived in 1942
+after the start of WWII.  This was the background and structure of the
+Psaris Family.

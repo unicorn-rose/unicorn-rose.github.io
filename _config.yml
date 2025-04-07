@@ -1,0 +1,152 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: "tony.psaris.com"
+name: "tony.psaris.com"
+url: "https://tony.psaris.com"
+#logo: "/assets/images/vecsig.png"
+#email: "anthony.psaris@gmail.com"
+description: >- # this means to ignore newlines until next line without indents
+ Tony Psaris was a loving son, husband, father and grandfather.  He
+ dedicated his life to providing the best Greek dining experience to
+ all of his customers.
+
+github_username: unicorn-rose
+minimal_mistakes_skin: dirt
+search: true
+search_full_content: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+    - "_posts/*.org"
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id:
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Anthony Psaris"
+#  avatar : "/assets/images/tony.jpg"
+  bio    : "A Unitarian Universalist Libertarian passionate about providing the perfect Greek diner experience"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://tony.psaris.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/anthonypsaris/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/unicorn-rose"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/anthony.psaris/"
+      
+
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/anthonypsaris/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/unicorn-rose"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/anthony.psaris/"
+
+defaults:
+  # all
+  - scope:
+      path: ""
+    values:
+      layout: single
+      mathjax: true
+      author_profile: true
+      class: wide
+      title: " "
+      # header:
+      #   overlay_image: /assets/images/trixie.jpg
+      #   overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      toc: true
+      toc_sticky: true
+      layout: single
+      read_time: false
+      comments: true
+      share: true
+      related: true
+      show_date: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      toc: true
+      toc_sticky: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: essays
+    values:
+      layout: single
+      author_profile: true
+#      toc: true
+      share: true
+      
+# Collections
+collections:
+  essays:
+    output: true
+    permalink: /:collection/:path/
+
+imagesurl: "/assets/images/"
+   
